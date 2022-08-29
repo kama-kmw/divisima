@@ -156,6 +156,8 @@ $(window).on('load', function() {
 		e.preventDefault();
 	});
 
+	
+
 
 	/*-------------------
 		Range Slider
