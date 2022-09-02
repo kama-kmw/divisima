@@ -82,6 +82,12 @@ ol {
   list-style-type: none;
 }
 
+/* .flex-sb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */
+
 /*---------------------
   Helper CSS
 -----------------------*/
@@ -1060,6 +1066,11 @@ body {
   padding: 50px 34px 47px;
   position: relative;
   margin-bottom: 70px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .banner .tag-new {
@@ -1083,6 +1094,7 @@ body {
   letter-spacing: 3px;
   margin-bottom: 5px;
   display: block;
+  color: #fff;
 }
 
 .banner h2 {
@@ -1091,6 +1103,7 @@ body {
   font-weight: 700;
   margin-bottom: 10px;
   color: #282828;
+  color: #fff;
 }
 
 /* ----------------
@@ -1104,6 +1117,10 @@ body {
 
 .footer-logo {
   padding-bottom: 60px;
+}
+
+.footer-logo h2 {
+  color: #fff;
 }
 
 .footer-widget {
@@ -1197,6 +1214,7 @@ body {
   opacity: 0.25;
   color: #717171;
   margin-bottom: 1px;
+  color: #fff;
 }
 
 .fw-latest-post-widget .lp-content span {
