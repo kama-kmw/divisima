@@ -11,7 +11,7 @@
             </div>
             <ul class="menu__right-block">
                <li class="menu__item">
-                  <a href="/index.php" class="menu__link">О нас</a>
+                  <a href="/about.php" class="menu__link">О нас</a>
                </li>
                <li class="menu__item">
                   <a href="/category.php" class="menu__link">Каталог</a>
