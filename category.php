@@ -71,7 +71,6 @@
       <!--=============== WORK ===============-->
       <section class="work section" id="work">
         <div class="work__filters">
-          <span class="work__item active-work" data-filter="all">Все</span>
           <span class="work__item" data-filter=".pasmy">Пасмы</span>
           <span class="work__item" data-filter=".klubki">Клубки</span>
           <!-- <span class="work__item" data-filter=".desigh">Design</span> -->
@@ -80,82 +79,97 @@
         <div class="work__container container grid">
           <div class="work__card mix pasmy">
             <img src="img/category/pasmy.jpeg" alt="" class="work__img" />
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <h3 class="work__title">Название</h3>
-
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt work__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix klubki">
             <img src="img/category/klubki.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt work__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix pasmy">
             <img src="img/category/pasmy.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt work__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix klubki">
             <img src="img/category/klubki.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt work__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix pasmy">
             <img src="img/category/pasmy.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt worc__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix klubki">
-            <img src="img/category/klubki.jpeg" alt="" class="work__img" />
+          <img src="img/category/klubki.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt worc__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix pasmy">
             <img src="img/category/pasmy.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt worc__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
 
           <div class="work__card mix klubki">
             <img src="img/category/klubki.jpeg" alt="" class="work__img" />
 
-            <h3 class="work__title">Название</h3>
+            <div class="work__sub-box">
+              <h3 class="work__title">Название</h3>
 
-            <a href="#" class="work__button">
-              Цена <i class="bx bx-right-arrow-alt worc__icon"></i>
-            </a>
+              <a href="#" class="work__button">
+                P120 <i class="bx bx-right-arrow-alt work__icon"></i>
+              </a>
+            </div>
           </div>
         </div>
       </section>
