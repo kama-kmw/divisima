@@ -2536,3 +2536,7 @@ body {
     display: none;
   }
 }
+.red {
+  color: #f51167 !important;
+  font-weight: bold !important;
+}

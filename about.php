@@ -40,11 +40,7 @@
 		<div class="loader"></div>
 	</div>
 
-	<!-- Header section -->
 	<?php include 'includes/header.php'; ?>
-	<!-- Header section end -->
-
-
 	<!-- Page info -->
 	<!-- <div class="page-top-info">
 		<div class="container">
