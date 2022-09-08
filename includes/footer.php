@@ -48,9 +48,9 @@
                <div class="con-info">
                   <p>Rus-teks</p>
                </div>
-               <div class="con-info">
+               <!-- <div class="con-info">
                   <p>1481 Creekside Lane Avila Beach, CA 93424, P.O. BOX 68</p>
-               </div>
+               </div> -->
                <div class="con-info">
                   <a href="tel:+79887132255">
                      <p>+7 (988) 713 22 55</p>
